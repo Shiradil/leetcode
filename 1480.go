@@ -1,4 +1,4 @@
-package start
+package leetcode
 
 func runningSum(nums []int) []int {
 	ans := make([]int, len(nums))
