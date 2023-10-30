@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(leetcode.FizzBuzz(15))
+	fmt.Println(leetcode.NumberOfSteps(123))
 }
